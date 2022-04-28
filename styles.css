@@ -1,0 +1,59 @@
+div{
+    
+}
+.menubar{
+   display: flex;
+    justify-content: center;
+    margin:4px;
+    
+}
+.re{
+    background-color:#ffe6e6;
+        border: dashed 4px;
+        margin: 10px;
+        padding: 4px;
+        color: blue;
+}
+.M{
+    
+    background-color:#ffe6e6;
+        border: 4px dashed blue;
+        margin: 10px;
+        padding: 4px;
+        color: blue;
+}
+.aboutme{
+    border: 4px dotted black;
+     padding: 5px;
+    color:black;
+    margin:4px;
+    font-family: 'Fruktur', cursive;font-family: 'Fruktur', cursive;
+}
+.posts{
+     border: 4px dotted black;
+     padding: 5px;
+    color:black;
+    margin:4px;
+    font-family: 'Fruktur', cursive;font-family: 'Fruktur', cursive;
+}
+.friends{
+     border: 4px dotted black;
+     padding: 5px;
+    color:black;
+    margin:4px;
+    font-family: 'Fruktur', cursive;font-family: 'Fruktur', cursive;
+}
+.K{
+     display: flex;
+    justify-content: space-around;
+    margin:4px;
+}
+img{
+    width:150px;
+}
+h2{
+    color:#0000ff;
+}
+h3{
+    color:#0000ff;
+}
